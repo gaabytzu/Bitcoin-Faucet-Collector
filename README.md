@@ -2,6 +2,7 @@ Faucet Collector BigPoolSearcher
 ------------------------------------------------
 Faucet Collector BigPoolSearcher is a software made on visual studio what can collect the free satoshi from a preload list of bitcoin faucets with just one click.
 
+The project can be found also at: www.faucet-collector.ga
 
 Installation
 ------------------------------------------------
